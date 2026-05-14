@@ -1,7 +1,7 @@
 # Introduction to Cryptography The Caesar Cipher in Python
 
-**Published:** 2024-11-11
-**Medium:** [https://medium.com/@kyle-t-jones/introduction-to-cryptography-the-caesar-cipher-in-python-6bca72f4f815](https://medium.com/@kyle-t-jones/introduction-to-cryptography-the-caesar-cipher-in-python-6bca72f4f815)
+Published: 2024-11-11
+Medium: [https://medium.com/@kyle-t-jones/introduction-to-cryptography-the-caesar-cipher-in-python-6bca72f4f815](https://medium.com/@kyle-t-jones/introduction-to-cryptography-the-caesar-cipher-in-python-6bca72f4f815)
 
 ## About
 
